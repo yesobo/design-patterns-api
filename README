@@ -1,1 +1,8 @@
-Hello world
+design-patterns-api
+
+Java REST app with JPA DAO to mySql
+
+REST -> implemented with Jersey
+IoC  -> No framework
+DAO  -> DAO Factory pattern to create JPADao
+DB   -> mySql
