@@ -1,0 +1,3 @@
+Tareas:
+	- Crear la DB y conectarla con el DAO.
+		- Buscar configuracion del dao. http://blog.xebia.com/2009/03/09/jpa-implementation-patterns-data-access-objects/		

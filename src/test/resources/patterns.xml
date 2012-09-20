@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<patterns>
+	<pattern>
+		<id>2</id>
+		<intent>Create new objects copying from a prototype</intent>
+		<name>Prototype</name>
+	</pattern>
+	<pattern>
+		<id>1</id>
+		<intent>Ensure a class only has one instance, and provide a global point of access to it</intent>
+		<name>Singleton</name>
+	</pattern>
+</patterns>
